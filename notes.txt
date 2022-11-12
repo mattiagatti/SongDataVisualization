@@ -1,0 +1,28 @@
+Il dataset è stato scrappato da billboards.
+È stato convertito in terza forma normale.
+Degli artisti non avevamo dove eravamo nati quindi abbiamo fatto scraping sulla biografia di ognuno da wikipedia.
+Le canzoni in featuring assegnano un punto ad entrambe le nazioni dei partecipanti.
+
+US has the biggest music market but how change you have to become famous there?
+1) From what country do most famous artists come? Is there an advantage for US artists in terms of the chance of success? Show total number of top hits per state
+Are most sold album from top artists?
+2) Are billboard top songs the top streamed on spotify for each year? Are most streamed songs of all time in spotify present multiple times in billboard charts?
+
+3) Are grammy awarded songs always on top of billboard charts?
+
+4) Are top tiktok songs always on top of billboard charts? Are top tiktok songs grammy awarded? Are grammy awarded songs famous on tiktok?
+Relationship between weekly top, yearly top on tiktok and billboard top
+
+?) What is the best featuring based on the country?
+
+
+Prima domanda Classifica BillBoard(ANNUALE) Titolo Artista Stato rank anno
+- Count per rank group by Stato e confronto con rank, ad esempio quanta percentuale occupa l’America nella top 100? Quanto l’Italia? Quanto la Spagna?
+Domanda due:
+Spotify: Titolo Artista Stato(non ci interessa) rank anno
+Domanda tre:
+Grammy awards songs: Titolo Artista Stato(non ci interessa) rank anno
+TikTok: Titolo Artista Stato(non ci interessa) rank anno
+BillBoard(SETTIMANALE) Titolo Artista Stato(non ci interessa) rank settimana
+
+Definiamo famoso qualcuno che riesce ad entrare nella classifica: quanto influenza il posto dove nasci o la lingua in cui canti per finire nella classifica?
