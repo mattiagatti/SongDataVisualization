@@ -13,7 +13,7 @@ def replace_all(artist):
     artist = "Bruno Mars & Anderson.Paak" if "Silk Sonic" in artist else artist
     artist = artist.replace("Diddy - Dirty Money", "Diddy") if "Diddy - Dirty Money" in artist else artist
     artist = "Jay-Z Featuring Kanye West" if artist == "Jay-Z Kanye West" else artist
-    artist = artist.replace("Ke$ha", "Kesha") if "Ke$ha" in artist else artist
+    artist = artist.replace("Kesha", "Ke$ha") if "Kesha" in artist else artist
     artist = artist.replace("Sean Paul Of The YoungBloodZ", "Sean Paul") \
         if artist == "Sean Paul Of The YoungBloodZ" else artist
     artist = artist.replace("WizKid", "Wizkid") if "WizKid" in artist else artist

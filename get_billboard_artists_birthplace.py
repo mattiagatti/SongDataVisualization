@@ -31,7 +31,8 @@ def get_country(artist_name):
     except:
         pass
 
-    return re.sub("[\[].*?[\]]", "", birthplace).strip() if birthplace is not None else "not available"
+    birthplace = re.sub("[\[].*?[\]]", "", birthplace).strip() if birthplace != None else birthplace
+    return birthplace
 
 
 if __name__ == "__main__":
