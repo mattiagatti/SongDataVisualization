@@ -8,9 +8,17 @@ def replace_all(artist):
 
     # and also these
     artist = artist.replace("+", "and") if "Dan + Shay" in artist else artist
-    artist = artist.replace("Jay Z", "Jay-Z") if "Jay Z" in artist else artist
+    artist = artist.replace("Jay Z", "Jay-Z").replace("JAY Z", "Jay-Z") \
+        if "Jay Z" in artist or "JAY Z" in artist else artist
     artist = "Bruno Mars & Anderson.Paak" if "Silk Sonic" in artist else artist
-    artist = "Dirty Money" if artist == "Diddy - Dirty Money" else artist
+    artist = artist.replace("Diddy - Dirty Money", "Diddy") if "Diddy - Dirty Money" in artist else artist
+    artist = "Jay-Z Featuring Kanye West" if artist == "Jay-Z Kanye West" else artist
+    artist = artist.replace("Ke$ha", "Kesha") if "Ke$ha" in artist else artist
+    artist = artist.replace("Sean Paul Of The YoungBloodZ", "Sean Paul") \
+        if artist == "Sean Paul Of The YoungBloodZ" else artist
+    artist = artist.replace("WizKid", "Wizkid") if "WizKid" in artist else artist
+    artist = artist.replace("Soulja Boy Tell'em", "Soulja Boy").replace("Soulja Boy Tell 'em", "Soulja Boy") \
+        if "Soulja Boy Tell'em" in artist or "Soulja Boy Tell 'em" in artist else artist
 
     connectors = ("(Featuring", "Featuring", "Feat.", "Duet With", " With ",
                   " / ", " + ", " Or ", " (", " x ", ", &", ", ")
@@ -51,7 +59,7 @@ if __name__ == "__main__":
     billboard_data["artist"] = billboard_data["artist"].apply(lambda x: replace_all(x))
 
     artists = divide_artists(billboard_data)
-    d = {'name': artists, 'city': None, 'region': None, 'state': None}
+    d = {'name': artists, 'birthplace': None}
     artists_data = pd.DataFrame(data=d)
     artists_data.index.name = 'artist_id'
     artists_data.to_csv("datasets/billboard_artists.csv")
