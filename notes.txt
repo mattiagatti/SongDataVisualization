@@ -1,9 +1,19 @@
+1) From what country do most famous artists come?
+2) Show total number of top hits per state
+3) What are the artists with more songs in the charts?
+4) Interactive visualization of artists rank trend
+5) Population vs Charts
+6) Pie chart single artist and featuring songs
+
+With Spotify:
+1) Checking listeners on spotify with the number of songs in the charts for a specific artist
+
 Il dataset è stato scrappato da billboards.
 È stato convertito in terza forma normale.
 Degli artisti non avevamo dove eravamo nati quindi abbiamo fatto scraping sulla biografia di ognuno da wikipedia.
 Le canzoni in featuring assegnano un punto ad entrambe le nazioni dei partecipanti.
 
-US has the biggest music market but how change you have to become famous there?
+US has the biggest music market but how chance you have to become famous there?
 1) From what country do most famous artists come? Is there an advantage for US artists in terms of the chance of success? Show total number of top hits per state
 Are most sold album from top artists?
 2) Are billboard top songs the top streamed on spotify for each year? Are most streamed songs of all time in spotify present multiple times in billboard charts?
