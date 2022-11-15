@@ -26,3 +26,9 @@ TikTok: Titolo Artista Stato(non ci interessa) rank anno
 BillBoard(SETTIMANALE) Titolo Artista Stato(non ci interessa) rank settimana
 
 Definiamo famoso qualcuno che riesce ad entrare nella classifica: quanto influenza il posto dove nasci o la lingua in cui canti per finire nella classifica?
+
+1) Numero di volte in classifica per nazione
+2) Numero di volte in classifica per artista
+3) Probabilità di finire in classifica di un artista in rapporto a dove nasce
+
+Analisi sulla classifica settimanale
