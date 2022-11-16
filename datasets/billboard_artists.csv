@@ -1,4 +1,4 @@
-artist_id,name,origin,lat,lng
+artist_id,name,origin,latitude,longitude
 0,2 Chainz,"College Park, Georgia, United States",33.6534427,-84.4493725
 1,2 Pistols,"Tarpon Springs, Florida, United States",28.148082950000003,-82.74380159717906
 2,21 Savage,"Atlanta, Georgia, United States",33.7489924,-84.3902644

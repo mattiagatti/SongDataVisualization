@@ -12,14 +12,8 @@ def get_latlng(origin_string):
             latitude, longitude = location.latitude, location.longitude
         except:
             pass
-    # print(latitude, longitude)
+    print(latitude, longitude)
     return latitude, longitude
-
-
-def get_formatted_country(lat, lng):
-    locator = Nominatim(user_agent="myGeocoder")
-    location = locator.reverse(f"{lat}, {lng}")
-    return location.address
 
 
 if __name__ == "__main__":
@@ -30,8 +24,8 @@ if __name__ == "__main__":
     billboard_artists_data["origin"] = billboard_artists_data["origin"].apply(
         lambda x: x.replace("U.K.", "United Kingdom") if not pd.isna(x) else x)
 
-    billboard_artists_data.insert(3, "lat", None)
-    billboard_artists_data.insert(4, "lng", None)
+    billboard_artists_data.insert(3, "latitude", None)
+    billboard_artists_data.insert(4, "longitude", None)
 
     for index in range(len(billboard_artists_data)):
         origin_string = billboard_artists_data.iloc[index, 2]
