@@ -4,6 +4,7 @@
 4) Interactive visualization of artists rank trend
 5) Population vs Charts
 6) Pie chart single artist and featuring songs
+7) Pie chart detailed for all state count artists
 
 With Spotify:
 1) Checking listeners on spotify with the number of songs in the charts for a specific artist
