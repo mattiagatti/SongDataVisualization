@@ -80,7 +80,6 @@ artist_id,name,city,state,country
 78,Boys Like Girls,Boston,Massachusetts,United States
 79,Brad Paisley,Glen Dale,West Virginia,United States
 80,Bradley Cooper,Abington Township,Pennsylvania,United States
-81,Brandy 'Ms. B.' Hambrick,,,
 82,Brantley Gilbert,Jefferson,Georgia,United States
 83,Brenda Lee,Atlanta,Georgia,United States
 84,Brendon Urie,Las Vegas,Nevada,United States
@@ -111,7 +110,6 @@ artist_id,name,city,state,country
 109,Chad Kroeger,Hanna,Alberta,Canada
 110,Chamillionaire,Houston,Texas,United States
 111,Chance The Rapper,Chicago,Illinois,United States
-112,Charlay,,,
 113,Charli XCX,Cambridgeshire,England,United Kingdom
 114,Charlie Puth,Rumson,New Jersey,United States
 115,Chase Rice,Asheville,North Carolina,United States
@@ -148,7 +146,6 @@ artist_id,name,city,state,country
 146,Daniel Caesar,Oshawa,Ontario,Canada
 147,Daniel Powter,Vernon,British Columbia,Canada
 148,Danity Kane,City of New York,New York,United States
-149,Darell,,,
 150,Darius Rucker,Charleston,South Carolina,United States
 151,Daughtry,Lasker,North Carolina,United States
 152,David Archuleta,Murray,Utah,United States
@@ -165,7 +162,6 @@ artist_id,name,city,state,country
 163,Diddy,City of New York,New York,United States
 164,Dierks Bentley,Phoenix,Arizona,United States
 165,Diplo,Philadelphia,Pennsylvania,United States
-166,Disciples,,,
 167,Disclosure,Reigate and Banstead,England,United Kingdom
 168,DJ Frank E,Denver,Colorado,United States
 169,DJ Khaled,New Orleans,Louisiana,United States
@@ -218,7 +214,6 @@ artist_id,name,city,state,country
 216,Foxes,Seattle,Washington,United States
 217,Frank Ocean,New Orleans,Louisiana,United States
 218,French Montana,City of New York,New York,United States
-219,Friends,,,
 220,fun.,City of New York,New York,United States
 221,Future,Atlanta,Georgia,United States
 222,G-Eazy,Oakland,California,United States
@@ -232,10 +227,8 @@ artist_id,name,city,state,country
 230,Glass Animals,Oxford,England,United Kingdom
 231,Gnarls Barkley,Atlanta,Georgia,United States
 232,gnash,Los Angeles,California,United States
-233,GoonRock,,,
 234,Gorillaz,City of Westminster,England,United Kingdom
 235,Gotye,Melbourne,Victoria,Australia
-236,Grace Potter,,,
 237,Grandmaster Caz,City of New York,New York,United States
 238,Green Day,Canyon Lake,California,United States
 239,Grey,Los Angeles,California,United States
@@ -563,7 +556,6 @@ artist_id,name,city,state,country
 561,Rod Wave,Saint Petersburg,Florida,United States
 562,Roddy Ricch,Compton,California,United States
 563,Rodney Atkins,Cumberland Gap,Tennessee,United States
-564,Roman GianArthur,,,
 565,Ron Browz,City of New York,New York,United States
 566,Roscoe Dash,Little Rock,Arkansas,United States
 567,Rozes,Lansdale,Pennsylvania,United States
@@ -604,14 +596,12 @@ artist_id,name,city,state,country
 602,Snow,Old Toronto,Ontario,Canada
 603,Snow Patrol,Dundee,Alba / Scotland,United Kingdom
 604,Social House,Pittsburgh,Pennsylvania,United States
-605,Sons,,,
 606,Soulja Boy,Atlanta,Georgia,United States
 607,Spearhead,Oakland,California,United States
 608,SpotemGottem,Jacksonville,Florida,United States
 609,Static Major,Louisville,Kentucky,United States
 610,StaySolidRocky,San Antonio,Texas,United States
 611,Sugarland,Douglas,Georgia,United States
-612,Superpower,,,
 613,Surf Mesa,Sammamish,Washington,United States
 614,Surfaces,College Station,Texas,United States
 615,Swae Lee,Tupelo,Mississippi,United States
@@ -706,7 +696,6 @@ artist_id,name,city,state,country
 704,YoungBoy Never Broke Again,Baton Rouge,Louisiana,United States
 705,Yung Berg,Chicago,Illinois,United States
 706,Yung Bleu,Mobile,Alabama,United States
-707,Yung D,,,
 708,Yung Joc,College Park,Georgia,United States
 709,Zac Brown Band,Atlanta,Georgia,United States
 710,Zacari,Bakersfield,California,United States

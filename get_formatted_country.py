@@ -1,29 +1,39 @@
+import traceback
+
 from geopy import Nominatim
 import pandas as pd
 
 def get_formatted_country(lat, lng, origin_string):
+    coordinates = f"{lat}, {lng}"
+    print(f"Retriving {coordinates} address...")
     try:
         locator = Nominatim(user_agent="myGeocoder")
-        location = locator.reverse(f"{lat}, {lng}")
+        location = locator.reverse(f"{coordinates}")
         address = location.raw["address"]
-        print(address)
+        parts = origin_string.split(",")
         if "city" in address:
             city = address["city"]
         elif "town" in address:
             city = address["town"]
         else:
-            city = origin_string.split(",")[0]
+            city = parts[0]
 
         state, country = address["state"], address["country"]
-    except:
+    except Exception:
+        traceback.print_exc()
+        print(origin_string)
+        exit()
         city, state, country = None, None, None
+
+    print(city, state, country)
     return city, state, country
 
 
 if __name__ == "__main__":
     billboard_artists_data = pd.read_csv("datasets/billboard_artists.csv")
-    cities, states, countries = [], [], []
+    billboard_artists_data = billboard_artists_data.dropna()
 
+    cities, states, countries = [], [], []
     for index in range(len(billboard_artists_data)):
         latitude = billboard_artists_data.iloc[index, 3]
         longitude = billboard_artists_data.iloc[index, 4]
