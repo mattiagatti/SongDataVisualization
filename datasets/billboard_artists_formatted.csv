@@ -19,7 +19,7 @@ artist_id,name,city,state,country
 17,Adam Levine,Los Angeles,California,United States
 18,Adele,London,England,United Kingdom
 19,Afrojack,Spijkenisse,South Holland,Netherlands
-20,AJR,Manhattan,New York,United States
+20,AJR,New York City,New York,United States
 21,Akon,Newark,New Jersey,United States
 22,Alessia Cara,Mississauga,Ontario,Canada
 23,Alex Clare,Golders Green,England,United Kingdom
@@ -155,7 +155,7 @@ artist_id,name,city,state,country
 153,David Banner,Jackson,Mississippi,United States
 154,David Cook,Blue Springs,Missouri,United States
 155,David Guetta,Paris,Île-de-France,France
-156,Daya,Mt. Lebanon,Pennsylvania,United States
+156,Daya,Mount Lebanon,Pennsylvania,United States
 157,Dean Lewis,Sydney,New South Wales,Australia
 158,Dem Franchize Boyz,Atlanta,Georgia,United States
 159,Demi Lovato,Albuquerque,New Mexico,United States
@@ -208,7 +208,7 @@ artist_id,name,city,state,country
 206,Field Mob,Albany,Georgia,United States
 207,Fifth Harmony,Miami,Florida,United States
 208,Finger Eleven,Burlington,Ontario,Canada
-209,Flipp Dinero,Canarsie,New York,United States
+209,Flipp Dinero,Brooklyn,New York,United States
 210,Flo Rida,Miami Gardens,Florida,United States
 211,Florence Welch,Camberwell,England,United Kingdom
 212,Florida Georgia Line,Nashville,Tennessee,United States
@@ -345,12 +345,12 @@ artist_id,name,city,state,country
 343,Kidd Kidd,New Orleans,Louisiana,United States
 344,Kiiara,Wilmington,Illinois,United States
 345,Kimbra,Hamilton,Waikato,New Zealand
-346,Kings Of Leon,Mt. Juliet,Tennessee,United States
+346,Kings Of Leon,Mount Juliet,Tennessee,United States
 347,Kip Moore,Nashville,Tennessee,United States
 348,Kirko Bangz,Houston,Texas,United States
 349,Kodak Black,Pompano Beach,Florida,United States
 350,KONGOS,Pretoria,Gauteng,South Africa
-351,Kool Moe Dee,Manhattan,New York,United States
+351,Kool Moe Dee,New York City,New York,United States
 352,Krayzie Bone,Cleveland,Ohio,United States
 353,Kris Allen,Conway,Arkansas,United States
 354,Kristinia DeBarge,Los Angeles,California,United States
@@ -428,7 +428,7 @@ artist_id,name,city,state,country
 426,Mary Lambert,Seattle,Washington,United States
 427,Masked Wolf,Sydney,New South Wales,Australia
 428,Matthew Santos,Minneapolis,Minnesota,United States
-429,MAX,Manhattan,New York,United States
+429,MAX,New York City,New York,United States
 430,Maxwell,Hamburg,Hamburg,Germany
 431,Meek Mill,Philadelphia,Pennsylvania,United States
 432,Megan Thee Stallion,Houston,Texas,United States
@@ -642,7 +642,7 @@ artist_id,name,city,state,country
 641,The Red Jumpsuit Apparatus,Middleburg,Florida,United States
 642,The Scene,Los Angeles,California,United States
 643,The Script,Dublin,Dublin,Ireland
-644,The Veronicas,Albany Creek,Queensland,Australia
+644,The Veronicas,Brisbane,Queensland,Australia
 645,The Wanted,Swinton,England,United Kingdom
 646,The Weeknd,Toronto,Ontario,Canada
 647,The-Dream,Atlanta,Georgia,United States
@@ -688,7 +688,7 @@ artist_id,name,city,state,country
 687,Wyclef Jean,Newark,New Jersey,United States
 688,Wynter,New York City,New York,United States
 689,X Ambassadors,Ithaca,New York,United States
-690,XXXTENTACION,Broward County,Florida,United States
+690,XXXTENTACION,Plantation,Florida,United States
 691,YFN Lucci,Atlanta,Georgia,United States
 692,YG,Compton,California,United States
 693,Ying Yang Twins,Atlanta,Georgia,United States

@@ -1,35 +1,5 @@
 import pandas as pd
 
-'''
-def get_formatted_country(lat, lng):
-    coordinates = f"{lat}, {lng}"
-    print(f"Retriving {coordinates} address...")
-    try:
-        locator = Nominatim(user_agent="myGeocoder")
-        location = locator.reverse(f"{coordinates}")
-        address = location.raw["address"]
-        parts = origin_string.split(",")
-
-        if "city" in address:
-            city = address["city"]
-        elif "town" in address:
-            city = address["town"]
-        else:
-            city = parts[0]
-
-        country = address["country"]
-        state = address["state"] if "state" in address else country
-
-        country = "Ireland" if country == "Éire / Ireland" else country
-        country = "Algeria" if country == "Algerian" else country
-        country = "New Zealand" if country == "New Zealand / Aotearoa" else country
-    except Exception:
-        city, state, country = None, None, None
-
-    print(city, state, country)
-    return city, state, country
-'''
-
 
 def get_formatted_country(origin_string):
     return [x.strip() for x in origin_string.split(",")]
