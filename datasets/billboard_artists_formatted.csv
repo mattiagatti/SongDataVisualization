@@ -28,7 +28,7 @@ artist_id,name,city,state,country
 26,Aloe Blacc,Laguna Hills,California,United States
 27,AlunaGeorge,City of Westminster,England,United Kingdom
 28,American Authors,Boston,Massachusetts,United States
-29,Amine,,,
+29,Amine,Casablanca,Morocco,Morocco
 30,Amy Winehouse,London,England,United Kingdom
 31,Anderson .Paak,Oxnard,California,United States
 32,Andre 3000,Atlanta,Georgia,United States
@@ -40,7 +40,7 @@ artist_id,name,city,state,country
 38,Asher Roth,Morrisville,Pennsylvania,United States
 39,ATR Son Son,Saint Petersburg,Florida,United States
 40,Ava Max,Milwaukee,Wisconsin,United States
-41,Avicii,,,
+41,Avicii,Stockholm,Sverige,Sverige
 42,Avril Lavigne,Belleville,Ontario,Canada
 43,AWOLNATION,Los Angeles,California,United States
 44,Ayo and Teo,Ann Arbor,Michigan,United States
@@ -52,7 +52,7 @@ artist_id,name,city,state,country
 50,Bad Meets Evil,Detroit,Michigan,United States
 51,Bastille,City of Westminster,England,United Kingdom
 52,Bazzi,Canton,Michigan,United States
-53,beabadoobee,,,
+53,beabadoobee,Manila,Philippines,Philippines
 54,Bebe Rexha,City of New York,New York,United States
 55,Becky G,Inglewood,California,United States
 56,BENEE,Auckland,Auckland,New Zealand / Aotearoa
@@ -88,7 +88,7 @@ artist_id,name,city,state,country
 87,BRS Kash,Atlanta,Georgia,United States
 88,Bruno Mars,Honolulu,Hawaii,United States
 89,Bryson Tiller,Louisville,Kentucky,United States
-90,BTS,,,
+90,BTS,Seoul,Seoul,South Korea
 91,Bubba Sparxxx,LaGrange,Georgia,United States
 92,Buckcherry,Anaheim,California,United States
 93,Busta Rhymes,City of New York,New York,United States
@@ -96,7 +96,7 @@ artist_id,name,city,state,country
 95,Calboy,Calumet City,Illinois,United States
 96,Cali Swag District,Inglewood,California,United States
 97,Calvin Harris,Dumfries,Alba / Scotland,United Kingdom
-98,Camila Cabello,,,
+98,Camila Cabello,La Habana,Cuba,Cuba
 99,Capital Cities,Los Angeles,California,United States
 100,Cardi B,City of New York,New York,United States
 101,Carly Pearce,Taylor Mill,Kentucky,United States
@@ -115,7 +115,7 @@ artist_id,name,city,state,country
 115,Chase Rice,Asheville,North Carolina,United States
 116,Cheat Codes,Los Angeles,California,United States
 117,Cher Lloyd,Malvern Hills,England,United Kingdom
-118,Cherine Anderson,,,
+118,Cherine Anderson,Kingston,Jamaica,Jamaica
 119,Cherish,Atlanta,Georgia,United States
 120,Childish Gambino,Stone Mountain,Georgia,United States
 121,Chingy,Saint Louis,Missouri,United States
@@ -156,7 +156,7 @@ artist_id,name,city,state,country
 157,Dean Lewis,Sydney,New South Wales,Australia
 158,Dem Franchize Boyz,Atlanta,Georgia,United States
 159,Demi Lovato,Albuquerque,New Mexico,United States
-160,Descemer Bueno,,,
+160,Descemer Bueno,La Habana,Cuba,Cuba
 161,Desiigner,City of New York,New York,United States
 162,Dev,Tracy,California,United States
 163,Diddy,City of New York,New York,United States
@@ -165,7 +165,7 @@ artist_id,name,city,state,country
 167,Disclosure,Reigate and Banstead,England,United Kingdom
 168,DJ Frank E,Denver,Colorado,United States
 169,DJ Khaled,New Orleans,Louisiana,United States
-170,DJ Snake,Béjaïa Bgayet ⴲⴳⴰⵢⴻⵝ بجاية,Béjaïa ⴲⴳⴰⵢⴻⵝ بجاية,Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر
+170,DJ Snake,Bejaia,Cabilia,Algerian
 171,DNCE,Los Angeles,California,United States
 172,Doja Cat,Los Angeles,California,United States
 173,Don Toliver,Houston,Texas,United States
@@ -178,7 +178,7 @@ artist_id,name,city,state,country
 180,E-40,Canyon Lake,California,United States
 181,Echosmith,Chino,California,United States
 182,Ed Sheeran,Calderdale,England,United Kingdom
-183,Edward Maya,,,
+183,Edward Maya,Municipiul București,România,România
 184,Eightball,Brisbane Queensland,Queensland,Australia
 185,Eli Young Band,Denton,Texas,United States
 186,Ella Henderson,East Lindsey,England,United Kingdom
@@ -220,7 +220,7 @@ artist_id,name,city,state,country
 223,Gabby Barrett,Munhall,Pennsylvania,United States
 224,Gavin DeGraw,Town of Fallsburg,New York,United States
 225,Gavin Rossdale,London,England,United Kingdom
-226,Gente de Zona,,,
+226,Gente de Zona,La Habana,Cuba,Cuba
 227,George Ezra,East Hertfordshire,England,United Kingdom
 228,Gipp,Laurium,Michigan,United States
 229,Giveon,Long Beach,California,United States
@@ -248,19 +248,19 @@ artist_id,name,city,state,country
 253,Hollis,Petaluma,California,United States
 254,Holly Brook,Mazomanie,Wisconsin,United States
 255,Hot Chelle Rae,Nashville-Davidson,Tennessee,United States
-256,Hozier,,,
+256,Hozier,Bray,County Wicklow,Ireland
 257,Huey,Kinloch,Missouri,United States
 258,Hunter Hayes,Breaux Bridge,Louisiana,United States
 259,Hurricane Chris,Shreveport,Louisiana,United States
 260,I LOVE MAKONNEN,Atlanta,Georgia,United States
 261,iann dior,Corpus Christi,Texas,United States
-262,Icona Pop,,,
+262,Icona Pop,Stockholm,Sverige,Sverige
 263,Idina Menzel,City of New York,New York,United States
 264,Iggy Azalea,Sydney,New South Wales,Australia
 265,iLoveMemphis,Memphis,Tennessee,United States
 266,Imagine Dragons,Las Vegas,Nevada,United States
 267,Internet Money,Los Angeles,California,United States
-268,Iyaz,,,
+268,Iyaz,Road Town,British Virgin Islands,British Virgin Islands
 269,J Balvin,Medellín,Antioquia,Colombia
 270,J. Cole,Fayetteville,North Carolina,United States
 271,J. Holiday,Washington,District of Columbia,United States
@@ -348,7 +348,7 @@ artist_id,name,city,state,country
 353,Kris Allen,Conway,Arkansas,United States
 354,Kristinia DeBarge,Los Angeles,California,United States
 355,KT Tunstall,City of Edinburgh,Alba / Scotland,United Kingdom
-356,Kygo,,,
+356,Kygo,Bergen,Norge,Norge
 357,Kyla,East Suffolk,England,United Kingdom
 358,KYLE,Ventura,California,United States
 359,La Roux,City of Westminster,England,United Kingdom
@@ -422,7 +422,7 @@ artist_id,name,city,state,country
 427,Masked Wolf,Sydney,New South Wales,Australia
 428,Matthew Santos,Minneapolis,Minnesota,United States
 429,MAX,City of New York,New York,United States
-430,Maxwell,,,
+430,Maxwell,Hamburg,Deutschland,Deutschland
 431,Meek Mill,Philadelphia,Pennsylvania,United States
 432,Megan Thee Stallion,Houston,Texas,United States
 433,Meghan Trainor,North Eastham,Massachusetts,United States
@@ -472,7 +472,7 @@ artist_id,name,city,state,country
 477,Neon Trees,Provo,Utah,United States
 478,New Boyz,Hesperia,California,United States
 479,NF,Gladwin,Michigan,United States
-480,Niall Horan,,,
+480,Niall Horan,Mullingar,Éire / Ireland,Éire / Ireland
 481,Nick Jonas,Dallas,Texas,United States
 482,Nick Lachey,Harlan,Kentucky,United States
 483,Nickelback,Hanna,Alberta,Canada
@@ -485,14 +485,14 @@ artist_id,name,city,state,country
 490,NLE Choppa,Memphis,Tennessee,United States
 491,Normani,Atlanta,Georgia,United States
 492,O.T. Genasis,Long Beach,California,United States
-493,Of Monsters And Men,,,
+493,Of Monsters And Men,Reykjavíkurborg,Ísland,Ísland
 494,Offset,Lawrenceville,Georgia,United States
 495,Old Dominion,Nashville-Davidson,Tennessee,United States
 496,Olivia O'Brien,Thousand Oaks,California,United States
 497,Olivia Rodrigo,Murrieta,California,United States
 498,Olly Murs,Witham,England,United Kingdom
 499,Omarion,Inglewood,California,United States
-500,OMI,,,
+500,OMI,Clarendon,Jamaica,Jamaica
 501,One Direction,City of Westminster,England,United Kingdom
 502,OneRepublic,Colorado Springs,Colorado,United States
 503,Orianthi,Adelaide,South Australia,Australia
@@ -510,7 +510,7 @@ artist_id,name,city,state,country
 515,Pharrell,Virginia Beach,Virginia,United States
 516,Pharrell Williams,Virginia Beach,Virginia,United States
 517,Phillip Phillips,Leesburg,Georgia,United States
-518,Pinkfong,,,
+518,Pinkfong,Seocho-dong,Seoul,South Korea
 519,Pistol Annies,Nashville-Davidson,Tennessee,United States
 520,Pitbull,Miami,Florida,United States
 521,Plain White T's,Lombard,Illinois,United States
@@ -526,7 +526,7 @@ artist_id,name,city,state,country
 531,Powfu,Vancouver,British Columbia,Canada
 532,Pretty Ricky,Miami,Florida,United States
 533,Project Pat,Memphis,Tennessee,United States
-534,PSY,,,
+534,PSY,Seoul,Seoul,South Korea
 535,Pusha T,Virginia Beach,Virginia,United States
 536,Quavo,Lawrenceville,Georgia,United States
 537,R. City,Saint Thomas,United States Virgin Islands,United States
@@ -545,7 +545,7 @@ artist_id,name,city,state,country
 550,Rich Homie Quan,Atlanta,Georgia,United States
 551,Rich The Kid,College Park,Georgia,United States
 552,Rick Ross,Miami Gardens,Florida,United States
-553,Rihanna,,,
+553,Rihanna,Saint Michael,Barbados,Barbados
 554,Rita Ora,Београд,Централна Србија,Србија
 555,Ritt Momney,Salt Lake City,Utah,United States
 556,Rivers Cuomo,Los Angeles,California,United States
@@ -565,7 +565,7 @@ artist_id,name,city,state,country
 571,Ryan Tedder,Colorado Springs,Colorado,United States
 572,Sabi,Inglewood,California,United States
 573,Sage The Gemini,Fairfield,California,United States
-574,SAINt JHN,City of Georgetown,Demerara-Mahaica,Guyana
+574,SAINt JHN,Georgetown,Demerara-Mahaica,Guyana
 575,Sam Hunt,Nashville-Davidson,Tennessee,United States
 576,Sam Smith,City of Westminster,England,United Kingdom
 577,Sammie,Miami,Florida,United States
@@ -575,8 +575,8 @@ artist_id,name,city,state,country
 581,Saweetie,San Jose,California,United States
 582,ScHoolboy Q,Los Angeles,California,United States
 583,Sean Garrett,Atlanta,Georgia,United States
-584,Sean Kingston,,,
-585,Sean Paul,,,
+584,Sean Kingston,Kingston,Jamaica,Jamaica
+585,Sean Paul,Kingston,Jamaica,Jamaica
 586,Secondhand Serenade,Menlo Park,California,United States
 587,Selena Gomez,Grand Prairie,Texas,United States
 588,SHAED,Washington,District of Columbia,United States
@@ -584,11 +584,11 @@ artist_id,name,city,state,country
 590,Shawn Mendes,Pickering,Ontario,Canada
 591,Sheck Wes,City of New York,New York,United States
 592,Shinedown,Jacksonville,Florida,United States
-593,Shontelle,,,
+593,Shontelle,Saint James,Barbados,Barbados
 594,Shop Boyz,Atlanta,Georgia,United States
 595,Sia,Adelaide,South Australia,Australia
 596,Silento,Stone Mountain,Georgia,United States
-597,Skip Marley,,,
+597,Skip Marley,Kingston,Jamaica,Jamaica
 598,Skrillex,Los Angeles,California,United States
 599,Skylar Grey,Mazomanie,Wisconsin,United States
 600,Slim Thug,Houston,Texas,United States
@@ -605,7 +605,7 @@ artist_id,name,city,state,country
 613,Surf Mesa,Sammamish,Washington,United States
 614,Surfaces,College Station,Texas,United States
 615,Swae Lee,Tupelo,Mississippi,United States
-616,Swedish House Mafia,,,
+616,Swedish House Mafia,Stockholm,Sverige,Sverige
 617,SZA,Maplewood,New Jersey,United States
 618,T-Pain,Tallahassee,Florida,United States
 619,T-Wayne,Houston,Texas,United States
@@ -632,7 +632,7 @@ artist_id,name,city,state,country
 640,The Pussycat Dolls,Los Angeles,California,United States
 641,The Red Jumpsuit Apparatus,Middleburg,Florida,United States
 642,The Scene,Los Angeles,California,United States
-643,The Script,,,
+643,The Script,Dublin,Éire / Ireland,Éire / Ireland
 644,The Veronicas,Albany Creek,Queensland,Australia
 645,The Wanted,Salford,England,United Kingdom
 646,The Weeknd,Old Toronto,Ontario,Canada
@@ -649,7 +649,7 @@ artist_id,name,city,state,country
 657,Tones And I,Melbourne,Victoria,Australia
 658,Too $hort,Oakland,California,United States
 659,Tory Lanez,Brampton,Ontario,Canada
-660,Tove Lo,,,
+660,Tove Lo,Djursholm,Sverige,Sverige
 661,Trace Adkins,Springhill,Louisiana,United States
 662,Train,San Francisco,California,United States
 663,Travie McCoy,City of Geneva,New York,United States
@@ -664,8 +664,8 @@ artist_id,name,city,state,country
 672,Unk,Atlanta,Georgia,United States
 673,Usher,Dallas,Texas,United States
 674,Vance Joy,Melbourne,Victoria,Australia
-675,Vika Jigulina,,,
-676,Vinz,,,
+675,Vika Jigulina,Municipiul București,România,România
+676,Vinz,Oslo,Norge,Norge
 677,Waka Flocka Flame,Atlanta,Georgia,United States
 678,Wale,Gaithersburg,Maryland,United States
 679,WALK THE MOON,Cincinnati,Ohio,United States
@@ -684,7 +684,7 @@ artist_id,name,city,state,country
 692,YG,Compton,California,United States
 693,Ying Yang Twins,Atlanta,Georgia,United States
 694,YK Osiris,Jacksonville,Florida,United States
-695,Ylvis,,,
+695,Ylvis,Bergen,Norge,Norge
 696,YNW Melly,Gifford,Florida,United States
 697,Yo Gotti,Memphis,Tennessee,United States
 698,Young Buck,Nashville-Davidson,Tennessee,United States
@@ -699,7 +699,7 @@ artist_id,name,city,state,country
 708,Yung Joc,College Park,Georgia,United States
 709,Zac Brown Band,Atlanta,Georgia,United States
 710,Zacari,Bakersfield,California,United States
-711,Zara Larsson,,,
+711,Zara Larsson,Solna kommun,Sverige,Sverige
 712,Zay Hilfigerrr,Detroit,Michigan,United States
 713,Zayion McCall,Detroit,Michigan,United States
 714,Zayn,Bradford,England,United Kingdom

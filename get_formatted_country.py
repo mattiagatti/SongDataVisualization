@@ -2,7 +2,7 @@ import traceback
 
 from geopy import Nominatim
 import pandas as pd
-
+lista = []
 def get_formatted_country(lat, lng, origin_string):
     coordinates = f"{lat}, {lng}"
     print(f"Retriving {coordinates} address...")
@@ -11,6 +11,7 @@ def get_formatted_country(lat, lng, origin_string):
         location = locator.reverse(f"{coordinates}")
         address = location.raw["address"]
         parts = origin_string.split(",")
+
         if "city" in address:
             city = address["city"]
         elif "town" in address:
@@ -18,11 +19,12 @@ def get_formatted_country(lat, lng, origin_string):
         else:
             city = parts[0]
 
-        state, country = address["state"], address["country"]
+        country = address["country"]
+        state = address["state"] if "state" in address else country
+
+        if state == country:
+            lista.append(origin_string)
     except Exception:
-        traceback.print_exc()
-        print(origin_string)
-        exit()
         city, state, country = None, None, None
 
     print(city, state, country)
@@ -54,3 +56,5 @@ if __name__ == "__main__":
     billboard_artists_data['country'] = countries
 
     billboard_artists_data.to_csv("datasets/billboard_artists_formatted.csv", index=False)
+
+    print(lista)
