@@ -3,7 +3,7 @@ artist_id,name,city,state,country
 1,2 Pistols,Tarpon Springs,Florida,United States
 2,21 Savage,Atlanta,Georgia,United States
 3,24kGoldn,San Francisco,California,United States
-4,3 Doors Down,Escatawpa,Mississippi,United States
+4,3 Doors Down,Jackson,Mississippi,United States
 5,3OH!3,Boulder,Colorado,United States
 6,42 Dugg,Detroit,Michigan,United States
 7,5 Seconds Of Summer,Sydney,New South Wales,Australia
@@ -179,7 +179,7 @@ artist_id,name,city,state,country
 177,Duncan Laurence,Spijkenisse,South Holland,Netherlands
 178,Dustin Lynch,Tullahoma,Tennessee,United States
 179,Dwele,Detroit,Michigan,United States
-180,E-40,East Bay,California,United States
+180,E-40,San Francisco,California,United States
 181,Echosmith,Chino,California,United States
 182,Ed Sheeran,Halifax,England,United Kingdom
 183,Edward Maya,Bucharest,Bucharest,Romania
@@ -375,7 +375,7 @@ artist_id,name,city,state,country
 373,Lifehouse,Los Angeles,California,United States
 374,Lil Baby,Atlanta,Georgia,United States
 375,Lil Boosie,Baton Rouge,Louisiana,United States
-376,Lil Dicky,Cheltenham Township,Pennsylvania,United States
+376,Lil Dicky,Cheltenham,Pennsylvania,United States
 377,Lil Durk,Chicago,Illinois,United States
 378,Lil Jon,Atlanta,Georgia,United States
 379,Lil Kim,Brooklyn,New York,United States
@@ -505,7 +505,7 @@ artist_id,name,city,state,country
 503,Orianthi,Adelaide,South Australia,Australia
 504,Owl City,Owatonna,Minnesota,United States
 505,Ozuna,San Juan,Puerto Rico,United States
-506,P!nk,Doylestown Township,Pennsylvania,United States
+506,P!nk,Doylestown,Pennsylvania,United States
 507,Panic! At The Disco,Las Vegas,Nevada,United States
 508,Paramore,Franklin,Tennessee,United States
 509,Parmalee,Parmele,North Carolina,United States
@@ -694,7 +694,7 @@ artist_id,name,city,state,country
 693,Ying Yang Twins,Atlanta,Georgia,United States
 694,YK Osiris,Jacksonville,Florida,United States
 695,Ylvis,Bergen,Vestland,Norway
-696,YNW Melly,Gifford,Florida,United States
+696,YNW Melly,Indian River,Florida,United States
 697,Yo Gotti,Memphis,Tennessee,United States
 698,Young Buck,Nashville,Tennessee,United States
 699,Young Dolph,Memphis,Tennessee,United States
