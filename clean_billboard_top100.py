@@ -14,6 +14,8 @@ def replace_all(artist):
     artist = artist.replace("Young D", "Yung D") if "Young D " in artist else artist
     artist = artist.replace("Ayo & Teo", "Ayo and Teo") if "Ayo & Teo" in artist else artist
     artist = artist.replace("THE SCOTTS,", "") if "THE SCOTTS," in artist else artist
+    artist = artist.replace("&", "and") if "Mumford & Sons" in artist else artist
+    artist = artist.replace("&", "and") if "Nico & Vinz" in artist else artist
     artist = artist.replace("The Throne", "Kanye West Featuring Jay-Z") if "The Throne" in artist else artist
 
     artist = artist.replace("Jay Z", "Jay-Z").replace("JAY Z", "Jay-Z") \
