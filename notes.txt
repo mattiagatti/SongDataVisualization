@@ -6,6 +6,7 @@
 6) Pie chart single artist and featuring songs
 7) Pie chart detailed for all state count artists
 8) Line graph with top 3 artists
+9) Filter states and show only United States frequency
 
 With Spotify:
 1) Checking listeners on spotify with the number of songs in the charts for a specific artist
