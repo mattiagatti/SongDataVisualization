@@ -1,0 +1,356 @@
+city_id,city_name,population,state_id
+0,College Park,14601,0
+1,Tarpon Springs,24605,1
+2,Atlanta,463878,0
+3,San Francisco,864816,2
+4,Jackson,170674,3
+5,Boulder,107349,4
+6,Detroit,677116,5
+7,Sydney,4627345,6
+8,New York City,8804190,7
+9,Deerfield Beach,79768,1
+10,San Diego,1394928,2
+11,Los Angeles,3898747,2
+12,London,8961989,8
+13,Spijkenisse,74988,9
+14,Newark,281944,10
+15,Mississauga,668549,11
+16,Golders Green,18818,8
+17,St. Louis,315685,12
+18,Laguna Hills,31748,2
+19,Boston,675647,13
+20,Casablanca,3144909,14
+21,Southgate,14454,8
+22,Oxnard,207254,2
+23,Portland,66881,15
+24,East Tilbury,5471,8
+25,Boca Raton,93235,1
+26,Hagerstown,40432,16
+27,Morrisville,8605,17
+28,St. Petersburg,2780000,1
+29,Milwaukee,600155,18
+30,Stockholm,1515017,19
+31,Belleville,50716,11
+32,Ann Arbor,117070,5
+33,Decatur,0,0
+34,Philadelphia,1603797,17
+35,Houston,2304580,20
+36,New Orleans,389617,21
+37,Vega Baja,29325,22
+38,Canton,86825,5
+39,Manila,1600000,23
+40,Brooklyn,2736074,7
+41,Inglewood,111666,2
+42,Grey Lynn,11720,24
+43,Reston,58404,25
+44,Rincon,9843,0
+45,Flatwoods,7335,26
+46,Manchester,2782141,8
+47,Chicago,2746388,27
+48,Palm Coast,106779,1
+49,Nashville,689447,28
+50,Memphis,633104,28
+51,Sayreville,44920,10
+52,Cleveland,388072,29
+53,Columbus,905748,29
+54,Glen Dale,1526,30
+55,Abington,55310,17
+57,Jefferson,15430,0
+58,Las Vegas,623747,32
+59,Anaheim,12830000,2
+60,McComb,40000,3
+61,Honolulu,371657,33
+62,Louisville,243639,26
+63,Seoul,10349312,34
+64,LaGrange,29588,0
+65,Calumet City,37031,27
+66,Dumfries,33280,35
+67,Havana,2163824,36
+68,Taylor Mill,6769,26
+69,Mission,33261,37
+70,Muskogee,38456,38
+71,Bonn,330579,39
+72,San Juan,418140,22
+73,New London,27179,40
+74,Berkeley,120972,2
+75,Marseille,870731,41
+76,Hanna,0,42
+77,Cambridge,158434,8
+78,Rumson,6926,10
+79,Asheville,88512,43
+80,Malvern,36770,8
+81,Kingston,937700,44
+82,Stone Mountain,6109,0
+83,Tappahannock,2387,25
+84,Red Bank,12204,10
+85,Bensalem,60427,17
+86,Riverdale,15989,0
+87,Miami,441003,1
+88,Staten Island,468730,7
+89,Hackensack,44834,10
+90,Malibu,12965,2
+91,Orlando,307573,1
+92,Franklin,1650000,28
+93,Hampton,136454,25
+94,Charlotte,874579,43
+95,Paris,2138551,45
+96,Oshawa,166000,11
+97,Vernon,40116,37
+98,Charleston,132609,46
+99,Lasker,114,43
+100,Murray,49250,47
+101,Blue Springs,54148,12
+102,Mount Lebanon,197,17
+103,Albuquerque,559121,48
+104,Tracy,87075,2
+105,Phoenix,1608139,49
+106,Reigate,52123,8
+107,Denver,715522,4
+108,Bejaia,164103,50
+109,Compton,98462,2
+110,Toronto,2600000,11
+111,Tullahoma,100000,28
+112,Chino,85595,2
+113,Halifax,82624,8
+114,Bucharest,1877155,51
+115,Brisbane,2189878,52
+116,Denton,131044,20
+117,Tetney,1526,8
+118,Hereford,60415,8
+119,Richmond,226610,25
+120,Sunderland,335415,8
+121,Meridian,39661,3
+122,Miami-Dade County,441003,1
+123,Cincinnati,309317,29
+124,Little Rock,197992,53
+125,Wilmette,27413,27
+126,Hacienda Heights,54038,2
+127,Paterson,147754,10
+128,Albany,74843,0
+129,Burlington,183314,11
+130,Miami Gardens,113187,1
+131,Camberwell,0,8
+132,Seattle,737015,54
+133,Oakland,419267,2
+134,Munhall,11247,17
+135,South Fallsburg,2870,7
+136,Marylebone,0,8
+137,Hertford,25847,8
+138,Laurium,1941,5
+139,Long Beach,12830000,2
+140,Oxford,171380,8
+141,Hollywood,167664,2
+142,Melbourne,4246375,55
+143,East Bay,110542,2
+144,Warwick,6823,7
+145,Geneva,13062,7
+146,Vallejo,121692,2
+147,Tarzana,0,2
+148,Edison,102548,10
+149,Redditch,84300,8
+150,Huntington Beach,201899,2
+151,Oklahoma City,681054,38
+152,Petaluma,60438,2
+153,Mazomanie,1697,18
+154,Bray,32600,56
+155,Kinloch,299,12
+156,Breaux Bridge,8395,21
+157,Shreveport,197204,21
+158,Corpus Christi,326586,20
+159,Tortola,0,57
+160,Medellín,1999979,58
+161,Fayetteville,201963,43
+162,Washington,689545,59
+163,Vero Beach,16358,1
+164,Middlesbrough,142707,8
+165,Hitchin,36099,8
+166,Enfield,103970,8
+167,Tidworth,9174,8
+168,Terrell,760,20
+169,Kansas City,475378,60
+170,Miramar,137132,1
+171,Mechanicsville,36348,25
+172,Auckland,417910,24
+173,Indian Hills,2959,26
+174,Liberal,20746,60
+175,Hampstead,0,8
+176,Ardsley,4638,7
+177,Redbridge,0,8
+178,Río Piedras,0,22
+179,Wisconsin Rapids,17897,18
+180,Crete,0,61
+181,Key West,70000,1
+182,Springfield,59680,29
+183,Bridgeport,147629,40
+184,Omaha,486051,62
+185,Dix Hills,26892,7
+186,Wyckoff,17124,10
+187,Homewood,19373,27
+188,Santa Clarita,182371,2
+189,London,346765,11
+190,Alexandria,159467,25
+191,Scarborough,0,11
+192,Santa Barbara,91842,2
+193,Caboolture,26341,52
+194,Fort Worth,918915,20
+195,Knoxville,185291,28
+196,Tallahassee,189907,1
+197,Baton Rouge,228590,21
+198,Pulaski,0,3
+199,El Paso,681124,20
+200,Romeo,0,5
+201,Wilmington,5694,27
+202,Hamilton,178500,63
+203,Mount Juliet,31540,28
+204,Pompano Beach,107762,1
+205,Pretoria,1619438,64
+206,Conway,64980,53
+207,Edinburgh,506520,35
+208,Bergen,285911,65
+209,Felixstowe,29171,8
+210,Ventura,96769,2
+211,Baskin,247,21
+212,Rossville,3997,0
+213,Meopham,4361,8
+214,Lake Charles,76070,21
+215,Islington,319143,8
+216,Glasgow,591620,35
+217,Wolverhampton,252791,8
+218,Cheltenham,4810,17
+219,Austell,7107,0
+220,Springfield Gardens,30515,7
+221,Hollygrove,0,21
+222,Hammersmith,87161,8
+223,Agoura Hills,20915,2
+224,Homewood,25708,66
+225,Pacific Palisades,0,2
+226,Rockville,66980,16
+227,Takapuna,8343,24
+228,Copenhagen,1153615,67
+229,Pittsburgh,304391,17
+230,Lansing,115056,5
+231,Rome,2318895,68
+232,Arlington,388125,20
+233,Huntington,18046,7
+234,Baltimore,621849,16
+235,Amstelveen,79639,69
+236,Savannah,147780,0
+237,Minneapolis,410939,70
+238,Hamburg,1845229,71
+239,Orleans,1621,13
+240,Burnaby,202799,37
+241,Gary,77156,61
+242,Lawrenceville,30493,0
+243,Southfield,73156,5
+244,Lindale,5692,20
+245,Portsmouth,96201,25
+246,Bellingham,0,8
+247,Odense,0,72
+248,Chezal-Benoît,970,73
+249,Opp,6658,66
+250,Corryton,0,28
+251,Birmingham,1141816,8
+252,Zoetermeer,115845,9
+253,Virginia Beach,452745,25
+254,Amsterdam,741636,69
+255,Haywards Heath,33845,8
+256,Glendale,240126,49
+257,Watford,125707,8
+258,Rexdale,0,11
+259,Victoria,289625,37
+260,Nottingham,321500,8
+261,Provo,115264,47
+262,Hesperia,93295,2
+263,Gladwin,25386,5
+264,Mullingar,0,74
+265,Dallas,1300092,20
+266,Harlan,26831,26
+267,Lawrence,80231,13
+268,Oslo,580000,75
+269,Needham,28886,13
+270,Tyler,103700,20
+271,Reykjavík,0,76
+272,Thousand Oaks,129339,2
+273,Murrieta,109830,2
+274,Witham,25353,8
+275,Clarendon,243857,77
+276,Colorado Springs,456568,4
+277,Adelaide,1225235,78
+278,Owatonna,25725,70
+279,Doylestown,0,17
+280,Parmele,264,43
+281,Brighton,290885,8
+282,Evanston,75527,27
+283,Liverpool,864122,8
+284,San Angelo,100450,20
+285,Leesburg,2983,0
+286,Lombard,43797,27
+287,Fort Myers,74013,1
+288,Wasilla,9284,79
+289,Vancouver,600000,37
+290,Saint Thomas,20000,80
+291,Newton Center,0,13
+292,Tupelo,35680,3
+293,Lake,3257,3
+294,Mobile,194288,66
+295,Saint Michael,98511,81
+296,Pristina,0,82
+297,Salt Lake City,192672,47
+298,Sarasota,55118,1
+299,Cumberland Gap,492,28
+300,Montgomeryville,12624,17
+301,Edmonton,1010899,42
+302,Fairfield,112970,2
+303,Georgetown,235017,83
+304,Eureka,27017,2
+305,Corinth,14866,3
+306,Santa Clara,126215,2
+307,Menlo Park,33449,2
+308,Grand Prairie,187809,20
+309,Barranquilla,1206319,84
+310,Pickering,91771,11
+311,Jacksonville,949611,1
+312,Saint James,1350,85
+313,Dundee,147710,35
+314,San Antonio,1434625,20
+315,Douglas,32897,0
+316,Sammamish,52253,54
+317,College Station,107889,20
+318,Maplewood,25008,10
+319,Green Bay,105207,18
+320,Brent,329100,8
+321,Calgary,1019942,42
+322,Birmingham,1060000,66
+323,Rochester,209802,7
+324,Lagos,15388000,86
+325,Stillwater,48967,38
+326,Greeneville,15094,28
+327,Waterloo,0,6
+328,Ramsey,15102,10
+329,Newbury Park,0,2
+330,Middleburg,13008,1
+331,Dublin,1024027,87
+332,Swinton,20000,8
+333,Indianapolis,887642,61
+334,Start,905,21
+335,Norfolk,246393,25
+336,Pasadena,142250,2
+337,Plumstead,16736,8
+338,Moore,60451,38
+339,Frankston,133560,55
+340,Brampton,593638,11
+341,Djursholm,8856,19
+342,Springhill,0,21
+343,Petersburg,32477,25
+344,Gardena,60447,2
+345,Mount Clemens,16400,5
+346,Gaithersburg,67456,16
+347,Fréjus,53098,41
+348,Surulere,0,86
+349,Ithaca,30788,7
+350,Plantation,92560,1
+351,Indian River,16358,1
+352,Bakersfield,373640,2
+353,Solna,82429,19
+354,Bradford,299310,8
+355,Kaiserslautern,98732,88
