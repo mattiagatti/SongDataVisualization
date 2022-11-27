@@ -8,7 +8,7 @@ Clean the scraps and extract artist names
 python clean_billboard_top100.py
 ```
 
-Fill the birthplace column in the artist csv by scraping from Wikipedia
+Fill the origin column in the artist csv by scraping from Wikipedia
 ``` shell
 python get_billboard_artists_birthplace.py
 ```
