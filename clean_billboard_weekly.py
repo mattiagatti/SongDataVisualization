@@ -78,4 +78,5 @@ if __name__ == "__main__":
     associations_data.to_csv("datasets/billboard_weekly_song_artist_ass.csv", index=False)
 
     billboard_data = billboard_data.drop("artist", axis=1)
-    billboard_data.to_csv("datasets/billboard_weekly_songs.csv")
+    billboard_data.index.name = "song_id"
+    billboard_data.to_csv("datasets/billboard_weekly/billboard_weekly_songs.csv")
