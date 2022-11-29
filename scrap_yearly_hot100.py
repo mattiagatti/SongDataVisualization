@@ -23,4 +23,4 @@ if __name__ == "__main__":
         data += scrap(year)
     df = pd.DataFrame(data, columns=["title", "artist", "rank", "year"])
     df.index.name = 'song_id'
-    df.to_csv("scraps/billboard_scraps.csv")
+    df.to_csv("scraps/billboard_yearly_charts.csv")

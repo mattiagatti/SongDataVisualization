@@ -43,6 +43,7 @@ def divide_artists(billboard_data):
     divided = []
     for artist in artists:
         single_artists = artist.split("&")
+        single_artists = [x for x in single_artists if x]  # remove NULL artists
         single_artists = [x.strip() for x in single_artists]
         divided += single_artists
 
@@ -56,9 +57,10 @@ def get_associations(billboard_data, artists_data):
         single_artists = row["artist"].split("&")
         single_artists = [x.strip() for x in single_artists]
         for single_artist in single_artists:
-            artist_row = artists_data.loc[artists_data["name"] == single_artist]
-            artist_id = artist_row.index[0]
-            associations.append((song_id, artist_id))
+            if single_artist:
+                artist_row = artists_data.loc[artists_data["name"] == single_artist]
+                artist_id = artist_row.index[0]
+                associations.append((song_id, artist_id))
 
     return associations
 
