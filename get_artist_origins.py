@@ -46,6 +46,7 @@ def get_country(artist_name):
 
 if __name__ == "__main__":
     billboard_artists_data = pd.read_csv("datasets/billboard_yearly/artists.csv")
+    billboard_artists_data["origin"] = None
     for index in range(len(billboard_artists_data)):
         artist_name = billboard_artists_data.iloc[index, 1]
         origin = get_country(artist_name)

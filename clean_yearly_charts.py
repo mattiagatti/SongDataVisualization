@@ -64,11 +64,11 @@ def get_associations(billboard_data, artists_data):
 
 
 if __name__ == "__main__":
-    billboard_data = pd.read_csv("scraps/billboard_scraps.csv")
+    billboard_data = pd.read_csv("scraps/billboard_yearly_charts.csv")
     billboard_data["artist"] = billboard_data["artist"].apply(lambda x: replace_all(x))
 
     artists = divide_artists(billboard_data)
-    d = {'name': artists, 'origin': None}
+    d = {'name': artists}
     artists_data = pd.DataFrame(data=d)
     artists_data.index.name = 'artist_id'
     artists_data.to_csv("datasets/billboard_yearly/artists.csv")
