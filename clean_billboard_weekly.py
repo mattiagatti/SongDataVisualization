@@ -71,11 +71,11 @@ if __name__ == "__main__":
     d = {'name': artists}
     artists_data = pd.DataFrame(data=d)
     artists_data.index.name = 'artist_id'
-    artists_data.to_csv("datasets/billboard_weekly/artists.csv")
+    artists_data.to_csv("datasets/billboard_weekly_artists.csv")
 
     associations = get_associations(billboard_data, artists_data)
     associations_data = pd.DataFrame(columns=['song_id', 'artist_id'], data=associations)
-    associations_data.to_csv("datasets/billboard_weekly/song_artist_ass.csv", index=False)
+    associations_data.to_csv("datasets/billboard_weekly_song_artist_ass.csv", index=False)
 
     billboard_data = billboard_data.drop("artist", axis=1)
-    billboard_data.to_csv("datasets/billboard_weekly/songs.csv", index=False)
+    billboard_data.to_csv("datasets/billboard_weekly_songs.csv", index=False)
