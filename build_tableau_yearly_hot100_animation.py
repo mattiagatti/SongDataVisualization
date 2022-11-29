@@ -1,8 +1,8 @@
 import pandas as pd
 
-artists_path = "datasets/billboard_yearly/billboard_artists.csv"
-associations_path = "datasets/billboard_yearly/billboard_song_artist_association.csv"
-songs_path = "datasets/billboard_yearly/billboard_songs.csv"
+artists_path = "datasets/billboard_yearly/artists.csv"
+associations_path = "datasets/billboard_yearly/song_artist_ass.csv"
+songs_path = "datasets/billboard_yearly/songs.csv"
 
 df1 = pd.read_csv(artists_path)
 df2 = pd.read_csv(associations_path)

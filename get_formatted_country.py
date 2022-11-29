@@ -6,7 +6,7 @@ def get_formatted_country(origin_string):
 
 
 if __name__ == "__main__":
-    billboard_artists_data = pd.read_csv("datasets/billboard_artists.csv")
+    billboard_artists_data = pd.read_csv("datasets/yearly/artists.csv")
 
     cities, states, countries = [], [], []
     for index in range(len(billboard_artists_data)):
@@ -27,4 +27,4 @@ if __name__ == "__main__":
     billboard_artists_data['country'] = countries
 
     print(billboard_artists_data)
-    billboard_artists_data.to_csv("datasets/billboard_artists_formatted.csv", index=False)
+    billboard_artists_data.to_csv("datasets/yearly/artists.csv", index=False)
