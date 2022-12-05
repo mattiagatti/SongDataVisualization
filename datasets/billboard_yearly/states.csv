@@ -1,70 +1,70 @@
 state_id,state_name,population,country_id
 0,Georgia,8975842,0
-1,Florida,8260000,0
-2,California,22000000,0
+1,Florida,17671452,0
+2,California,39512223,0
 3,Mississippi,2901371,0
-4,Colorado,456568,0
+4,Colorado,5812000,0
 5,Michigan,9883360,0
 6,New South Wales,8046100,1
 7,New York,8804190,0
 8,England,64163534,2
 9,South Holland,598199,3
-10,New Jersey,264290,0
+10,New Jersey,9267000,0
 11,Ontario,2600000,4
-12,Missouri,2010000,0
-13,Massachusetts,1950000,0
+12,Missouri,6168000,0
+13,Massachusetts,6985000,0
 14,Casablanca-Settat,3144909,5
 15,Maine,1325518,0
 16,Maryland,5624246,0
-17,Pennsylvania,3810000,0
+17,Pennsylvania,12960000,0
 18,Wisconsin,5535168,0
 19,Stockholm County,1515017,6
-20,Texas,6730000,0
-21,Louisiana,1880000,0
+20,Texas,29530000,0
+21,Louisiana,4624000,0
 22,Puerto Rico,3474182,0
 23,Metro Manila,1600000,7
 24,Auckland,417910,8
-25,Virginia,49736,0
+25,Virginia,8642000,0
 26,Kentucky,4206074,0
 27,Illinois,12772888,0
-28,Tennessee,2460000,0
+28,Tennessee,6975000,0
 29,Ohio,11467123,0
-30,West Virginia,49736,0
-32,Nevada,2399532,0
+30,West Virginia,1783000,0
+32,Nevada,3144000,0
 33,Hawaii,1284220,0
 34,Seoul,10349312,10
 35,Scotland,5404700,2
 36,La Habana,2163824,11
 37,British Columbia,600000,4
-38,Oklahoma,681054,0
+38,Oklahoma,3987000,0
 39,North Rhine-Westphalia,593085,12
 40,Connecticut,3527249,0
 41,Provence-Alpes-Côte d'Azur,338620,13
 42,Alberta,1019942,4
-43,North Carolina,170404,0
+43,North Carolina,10550000,0
 44,Kingston,937700,14
 45,Île-de-France,2138551,13
-46,South Carolina,133803,0
-47,Utah,115264,0
+46,South Carolina,5191000,0
+47,Utah,3338000,0
 48,New Mexico,1912684,0
-49,Arizona,5863809,0
+49,Arizona,7276000,0
 50,Bejaia,164103,15
 51,Bucharest,1877155,16
 52,Queensland,5052800,1
 53,Arkansas,2757631,0
-54,Washington,689545,0
+54,Washington,7739000,0
 55,Victoria,6526400,1
 56,County Wicklow,32600,17
 57,British Virgin Islands,29802,18
 58,Antioquia,6299886,19
 59,D.C.,689545,0
-60,Kansas,475378,0
-61,Indiana,1890000,0
+60,Kansas,2935000,0
+61,Indiana,6806000,0
 62,Nebraska,1757399,0
 63,Waikato,383406,8
 64,Gauteng,1619438,20
 65,Vestland,636533,21
-66,Alabama,17570000,0
+66,Alabama,5040000,0
 67,Region Hovedstaden,1680271,22
 68,Lazio,2318895,23
 69,North Holland,18012,3
@@ -78,7 +78,7 @@ state_id,state_name,population,country_id
 77,Clarendon,243857,14
 78,South Australia,1742700,1
 79,Alaska,660633,0
-80,United States Virgin Islands,50601,0
+80,United States Virgin Islands,105870,0
 81,Saint Michael,98511,25
 82,Prishtinë,207062,26
 83,Demerara-Mahaica,235017,27
